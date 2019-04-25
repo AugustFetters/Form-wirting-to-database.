@@ -1,10 +1,7 @@
 <?php
 	
-
-
 	header("Content-Type: text/html;charset=utf-8"); 
 	header("Cache-Control:private"); 
-
 
 	session_start(); 
 	function set_token() { 
