@@ -1,0 +1,40 @@
+body{
+	width: 100%;
+}
+.servername{
+	font-family: "微软雅黑";
+	text-align: center;
+	color: #6b7692;
+	font-size: 175%;
+}
+.table{
+	width: 100%;
+}
+.table_tdone{
+	margin: 2px;
+	text-align: right;
+	width: 27%;
+}
+.table_tdone p{
+	width: 100%;
+	font-size: 15px;
+}
+.table_tdtwo{
+	margin: 2px;
+	text-align: left;
+	width: 73%;
+}
+.table_tdtwo input,select{
+	width:80%;
+	height:30px;
+	font-size: 15px;
+}
+.table_tdtwo_BIG textarea{
+	width:80%;
+	height:60px;
+	font-size: 15px;
+}
+.table_tdthree input{
+	width: 100px;
+	height: 30px;
+}
