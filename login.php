@@ -40,7 +40,7 @@
 			$muqinshouji = $_POST["muqinshouji"];
 			$servername = "127.0.0.1";
 			$username = "root";
-			$password = "Wdsrs20010418";
+			$password = "123456";
 
 			// 创建连接 
 			$conn = mysqli_connect($servername, $username, $password);
