@@ -161,7 +161,7 @@
 <body>
 	<div class="zhengti">
 	<!--标题-->
-		<div class="servername">南靖第一职业技术学校<br/>新生入学信息录入系统</div>
+		<div class="servername">某某职业技术学校<br/>新生入学信息录入系统</div>
 		<!--表单-->
 			<form name="form" action="login.php" method="post" onSubmit="return beforeSubmit(this)">
 				<input type="hidden" name="token" value="<?php echo $_SESSION['token']?>"> 
